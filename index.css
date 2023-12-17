@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+body>p{
+    text-align: center;
+}
+.italic{
+    font-style: italic;
+    text-align: center;
+    margin: 3px;
+}
